@@ -1,0 +1,4 @@
+log.log
+laboratornaya.txt
+.gitignore
+experimental.txt
